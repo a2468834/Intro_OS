@@ -1,0 +1,1 @@
+cmd_/home/a2468834/Intro_OS/Project2/project2_0416047.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/a2468834/Intro_OS/Project2/project2_0416047.ko /home/a2468834/Intro_OS/Project2/project2_0416047.o /home/a2468834/Intro_OS/Project2/project2_0416047.mod.o ;  true
